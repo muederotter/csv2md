@@ -1,0 +1,11 @@
+.venv
+
+/build
+/dist
+/test
+
+csv2md.log
+csv2md.spec
+versioninfo.rc
+
+__pycache__
